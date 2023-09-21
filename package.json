@@ -1,0 +1,15 @@
+{
+  "name": "hosting-sample-project",
+  "version": "1.0.0",
+  "description": "",
+  "author": "subhash.bvb@gmail.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
